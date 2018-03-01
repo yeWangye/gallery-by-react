@@ -1,0 +1,19 @@
+body{margin:0;padding:0;background:#ffe;font-size:14px;font-family:sans-serif;color:#231F20;overflow:auto;background-image: url('./../image/bg.jpg');
+background-repeat: no-repeat;background-size: cover}
+a {color:#000;font-size:14px;}
+#main{width:100%;}
+#wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
+#text{width:400px;height:460px;left:60px;top:80px;position:absolute;background-size: cover;background-position: 0 -50px;transition: all 0.2s ease-in}
+#code{display:none;font-size:16px;}
+#clock-box {position:absolute;left:0px;top: 550px;font-size: 16px;display:none;}
+#clock-box a {font-size:16px;text-decoration:none;}
+#clock{margin-left:48px;}
+#canvas{margin:0 auto;width:1100px;height:680px;transition: all 0.2s ease-in}
+#error{margin:0 auto;text-align:center;margin-top:60px;display:none;}
+.hand{cursor:pointer;}
+.say{margin-left:5px;margin-bottom: 3px;color: #be1a25;font-weight: bolder}
+.space{margin-right:150px;}
+#clock-box .digit{font-size: 24px}
+#clock .digit{font-size: 40px;color: #be1a25}
+#love strong{font-size: 20px;color: #be1a25}
+#love {margin-left: 40px}
